@@ -1,0 +1,3 @@
+class EnvKeys:
+    COMMANDS_STORE_FILE: str = "COMMANDS_STORE_FILE"
+

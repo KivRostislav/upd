@@ -1,0 +1,8 @@
+[
+    {
+        "id": 1,
+        "name": "print",
+        "script": "D:\\upd\\consumer\\scripts\\script.py",
+        "can_run_in_background": true
+    }
+]
